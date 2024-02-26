@@ -14,11 +14,11 @@ We have a dedicated interest in applied statistics (machine learning, bayesian m
 
 ## The lab
 
-[Open positions](https://audreyburki.github.io/Open-Positions/)  
+[Open positions](https://github.com/cslm-lab/Open-Positions)
 
-[News](https://audreyburki.github.io/Lab-News/)  
+[News](https://github.com/cslm-lab/-Lab-News)
 
-[Lab members](https://audreyburki.github.io/Lab-Members/)  
+[Lab members](https://github.com/cslm-lab/Lab-Members)
 
 [Follow the CSLM LAB on Github](https://github.com/cslm-lab)
 
