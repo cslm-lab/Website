@@ -8,7 +8,7 @@ We have a dedicated interest in applied statistics (machine learning, bayesian m
 
 
 
-### [Data stories for selected projects](https://audreyburki.github.io/Overview/)
+### [Data stories for selected projects](https://github.com/cslm-lab/Overview)
 
 
 
