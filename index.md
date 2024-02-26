@@ -14,11 +14,11 @@ We have a dedicated interest in applied statistics (machine learning, bayesian m
 
 ## The lab
 
-[Open positions](https://github.com/cslm-lab/Open-Positions)
+[Open positions](https://cslm-lab.github.io/Open-Positions/)
 
-[News](https://github.com/cslm-lab/-Lab-News)
+[News](https://cslm-lab.github.io/Lab-News/)
 
-[Lab members](https://github.com/cslm-lab/Lab-Members)
+[Lab members](https://cslm-lab.github.io/Lab-Members/)
 
 [Follow the CSLM LAB on Github](https://github.com/cslm-lab)
 
